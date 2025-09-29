@@ -4,15 +4,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nishant-yadav-339022217/" target="_blank" aria-label="LinkedIn">
-    <img src="https://img.shields.io/badge/%20-?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:2201ph20_nishant@iitp.ac.in" aria-label="Email">
-    <img src="https://img.shields.io/badge/%20-?style=flat-square&logo=gmail&logoColor=white&color=D14836" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Nishant058544" target="_blank" aria-label="GitHub">
-    <img src="https://img.shields.io/github/followers/Nishant058544?style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1RkiksGnk1j0ur0zhUTLjwfwqTR61KNmV/view?usp=sharing" target="_blank" aria-label="Resume">
+    <img src="https://img.shields.io/badge/Resume-PDF-4b8bbe?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
 
