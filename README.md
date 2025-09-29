@@ -46,32 +46,36 @@ I turn raw data into clear business insights and interactive dashboards. Current
 > Click to explore code, notebooks, and dashboards.
 
 ### 1. [Myntra Sales BI Dashboard](https://github.com/Nishant058544/Myntra-Analysis-Power-Bi) · *Power BI, DAX*  
+**Jul 2025 – Aug 2025**  
 - Interactive Power BI dashboard for **3.5k+ orders** across 40 products.  
 - Built DAX KPIs and slicers (category / quarter / month) to expose YTD & quarterly trends.  
 - Impact: guided inventory prioritization and marketing actions (region & day-level insights).
 
 ### 2. [OLA Ride Analytics](https://github.com/Nishant058544/OLA-Data-Analyst-Project-Power-BI-And-SQL) · *SQL, Power BI, Excel*  
+**Jun 2025 – Jul 2025**  
 - End-to-end analytics for **100k+ rides**: ETL with SQL, analyses in Excel, dashboards in Power BI.  
 - Reusable SQL views and data models for quick stakeholder queries.  
 - Insights: weekend demand spikes, vehicle-type performance, cancellation drivers.
 
 ### 3. [Amazon Sales Analysis](https://github.com/Nishant058544/Amazon-Sales-Analysis) · *Power BI, Python*  
+**Jul 2025 – Aug 2025**  
 - Dashboard on **89k+ sales** (5 years): cleaning, modelling, and DAX-driven KPIs.  
 - Delivered YTD & quarterly trend analysis, product velocity metrics, and review-based customer satisfaction signals.
 
-### 4. [EdTech Course Analytics Dashboard](https://github.com/Nishant058544/Edtec-Analysis) · *Power BI*
+### 4. [EdTech Course Analytics Dashboard](https://github.com/Nishant058544/Edtec-Analysis) · *Power BI*  
+**2025**  
 - Standardized course metadata and analyzed engagement (views, subtitles, language, instructor performance).  
-- Recommended content expansion targets using engagement & rating signals.
+- Delivered category-wise viewer engagement insights (avg. views, subtitle impact, language trends) and recommended content expansion targets using engagement & rating signals.  
+- Repo: `https://github.com/Nishant058544/Edtec-Analysis`
 
 > More projects and notebooks in my repo list — feel free to explore!
 
 ---
 
-## 🏆 Achievements
-- 🥇 Achieved **Gold-level Consultant** at **WorldQuant BRAIN** for top-performing alphas  
-- 🏅 Semi-Finalist at **Traya Health Case Study Competition**  
-- 📈 Quarter-Finalist at **HP Power Lab** & **Muthoot Finclusion Challenge**  
-- 🚀 Ranked **Top 17** nationally in Assessli Hackathon (AI Mock-Interview Bot)
+## 🏆 Selected Achievements
+- **Top 17** — Assessli national hackathon (AI chatbot for mock interviews)  
+- **Semi-finalist** — Traya Health case competition  
+- **Quarter-finalist** — HP Power Lab (Top 150 / 129,000+) and Muthoot Finclusion Challenge
 
 ---
 
@@ -97,5 +101,19 @@ I turn raw data into clear business insights and interactive dashboards. Current
 
 ---
 
-## 🌟 Fun Fact
-> I believe **“Data without insights is just noise”** — I love transforming raw data into actionable stories!
+## 🔀 Quick tips (for the repo)
+- **Pin these featured repos** on your GitHub profile.  
+- Add a short **GIF / screenshot** of each dashboard under `/assets` and reference it in repo READMEs.  
+- Keep a `DEMO.md` or short video link for non-technical reviewers.
+
+---
+
+Thanks — link updated. Want me to:
+1. Add a small screenshot thumbnail (hosted in repo `/assets`) for the Edtec repo entry?  
+2. Shorten the README to a ultra-minimal recruiter-friendly version?  
+3. Or push this directly to your repo (I can give the exact git commands)?  
+Pick one and I’ll do it.  
+
+
+
+improve this readme file see the img it is not looking good and keep only thing which u find duitable
