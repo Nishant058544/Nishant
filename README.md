@@ -4,17 +4,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nishant-yadav-339022217/" target="_blank" aria-label="LinkedIn">
-    <img src="https://img.shields.io/badge/-?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/%20-?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:2201ph20_nishant@iitp.ac.in" aria-label="Email">
-    <img src="https://img.shields.io/badge/-?style=flat-square&logo=gmail&logoColor=white&color=D14836" alt="Email" />
+    <img src="https://img.shields.io/badge/%20-?style=flat-square&logo=gmail&logoColor=white&color=D14836" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Nishant058544" target="_blank" aria-label="GitHub">
     <img src="https://img.shields.io/github/followers/Nishant058544?style=social" alt="GitHub followers" />
   </a>
 </p>
+
 
 
 ---
@@ -45,7 +46,7 @@
 ## 📊 Highlight Projects
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| [📈 Myntra Sales BI Dashboard](https://github.com/Nishant058544/Myntra-Analysis-Power-Bi) | Power BI, DAX | Designed an **interactive dashboard** for 89k+ sales records (5 years), revealing key sales trends & customer behavior. |
+| [📈 Myntra Sales BI Dashboard](https://github.com/Nishant058544/Myntra-Analysis-Power-Bi) | Power BI, DAX | Transformed 3.5k+ orders into actionable insights with interactive dashboards and advanced DAX calculations. Enabled data-driven inventory decisions through category-wise performance and regional trend analysis.|
 | [🚖 OLA Ride Analytics](https://github.com/Nishant058544/OLA-Data-Analyst-Project-Power-BI-And-SQL) | SQL, Power BI, Excel | Built an **end-to-end analytics workflow** for 100k+ rides: booking trends, revenue by payment method, and cancellation patterns. |
 
 > 🟢 Explore my [**repositories**](https://github.com/Nishant058544?tab=repositories) for more!
